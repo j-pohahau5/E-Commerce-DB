@@ -32,18 +32,18 @@ Steps:
 
 Steps:
 1. open Insomnia and get route for all the items in the route EX: localhost:3001/api/(categories, tags, or products)
-[!get-routes.png](./Develop/img/get-routes.png)
+![This is an image](./Develop/img/get-routes.png)
 2. do a get route for specific id EX: localhost:3001/api/(categories, tags, or products)/(any id number)
-[!get-routes.png](./Develop/img/get-routes.png)
+![This is an image](./Develop/img/get-routes.png)
 3. do a post route EX: localhost:3001/api/(categories, tags, or products)
-[!post-put_routes.png](./Develop/img/post-put_routes.png)
+![This is an image](./Develop/img/post-put_routes.png)
 4. do a put(update) route for specific id EX: localhost:3001/api/(categories, tags, or products)/(any id number)
-[!post-put_routes.png](./Develop/img/post-put_routes.png)
+![This is an image](./Develop/img/post-put_routes.png)
 5. do a delete route for specific id EX: localhost:3001/api/(categories, tags, or products)/(any id number)
-[!delete-route.png](./Develop/img/delete-route.png)
+![This is an image](./Develop/img/delete-route.png)
 
 Many to Many
-[!many-many_models.png](./Develop/img/many-many_models.png)
+![This is an image](./Develop/img/many-many_models.png)
 
 
 ## Credits
