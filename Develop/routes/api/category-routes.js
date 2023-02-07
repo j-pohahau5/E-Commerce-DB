@@ -55,7 +55,10 @@ router.put('/:id', async  (req, res) => {
     .then(function(rowsUpdated) {
       res.json(rowsUpdated)
     })
-    .catch(next)
+    .catch((err) => {
+      // console.log(err);
+      res.status(400).json(err);
+    })
 });
 
 router.delete('/:id', async (req, res) => {
