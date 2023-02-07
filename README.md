@@ -5,7 +5,8 @@
 
 I created this project so user can see a DataBase using Insomnia to get JSON data. This application solves the issue that if a user doesn't know where to get a DataBase that includes categories, products, and tags they can just use mine and update, delete, or add to the DataBase directly.
 
-Video Link: (https://drive.google.com/file/d/1tCbYs9obow3Y4HIH1eTluG5nOcRRgEHy/view)
+Video Link: 'Click the image'
+[![Watch the video](./Develop/img/video.png)](https://drive.google.com/file/d/1tCbYs9obow3Y4HIH1eTluG5nOcRRgEHy/view)
 
 
 ## Table of Contents
